@@ -27,7 +27,7 @@ Adding an Arduino microcontroller to digitize and process the analog signal from
 
 Transfering the given code to the Arduino device. This will connect the screen and it will turn on when connecting the battery.
 
-![photo1706622214](https://github.com/anushbareyan/geiger-counter/assets/122983285/77c10771-c33e-44f3-9c84-b4ab50408f36)
+![photo1706622214](https://github.com/anushbareyan/geiger-counter/assets/122983285/45f7b889-0735-48b6-9881-ca1dd0507540)
 
 # Experiment: Attenuation of Gamma Rays
 
@@ -42,8 +42,6 @@ I conducted an experiment to investigate the attenuation of gamma rays as they i
 ### Step 2: Open Beam
 - I placed the 60Co source about 10 cm away from the detector and measured for 5 minutes.
 - I calculated the rate in CPM and its error.
-
-
 
 https://github.com/anushbareyan/geiger-counter/assets/122983285/a9daacac-094a-4a7b-b611-dc238640b60f
 
@@ -65,4 +63,4 @@ https://github.com/anushbareyan/geiger-counter/assets/122983285/a9daacac-094a-4a
 - I calculated the attenuated rate for plastic.
 - I calculated the transmission and compared it with theoretical values with Z-score.
 
-![Screenshot_20240130_175646](https://github.com/anushbareyan/geiger-counter/assets/122983285/a05f3276-e658-406a-ad47-99a3ce63631a)
+![Screenshot_20240130_175646](https://github.com/anushbareyan/geiger-counter/assets/122983285/82449a32-c670-498d-8ff5-010d8612abdc)
